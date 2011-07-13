@@ -1,3 +1,4 @@
+set guifont=Monaco:h14
 set number
 colorscheme darkspectrum 
 syntax on
@@ -10,4 +11,3 @@ set smartcase
 set tabstop=2
 set shiftwidth=2
 set expandtab
-
